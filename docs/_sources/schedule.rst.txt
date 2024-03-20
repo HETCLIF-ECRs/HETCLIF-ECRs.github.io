@@ -47,7 +47,7 @@ Wednesday, April 3
 Thursday, April 4
 -----------------
 
-- **9:00:** Career Panel Discussion by HETCLIF Faculty Present in Oslo: Bjørn, Marianne, Laura, Dan, Annica?
+- **9:00:** Career Panel Discussion by HETCLIF Faculty Present in Oslo: Bjørn, Marianne, Laura, Dan, Annica.
 
 - **11:00:** Overflow Symposium Faculty Q&A by HETCLIF Faculty.
   
@@ -68,7 +68,7 @@ Friday, April 5
   
 - **13:00:** Hackathon by ECRs.
   
-- **16:00:** Wrap up analysis. Any closing points from faculty?
+- **16:00:** Wrap up analysis. Any closing points from faculty.
   
 - **17:00:** Dinner.
 
