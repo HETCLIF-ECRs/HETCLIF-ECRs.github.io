@@ -3,17 +3,22 @@
 Hackathon Details
 =================
 
-The hackathon is a collaborative event focusing on analyzing RAMIP data to identify extreme weather events, including temperature, precipitation, and wind patterns across various models. Our goal is to catalog the occurrence and causes of these extreme events.
 
-Hackathon Topic
+Topic
 ---------------
 
-Identifying extreme events in RAMIP data.
+Identifying extreme events (temperature, precipitation, and wind) in RAMIP data.
 
-Schedule
+Timeline
 --------
 
-The hackathon will commence on Thursday afternoon following the Professional Development Workshop and will conclude with the wrap-up analysis on Friday afternoon.
+Get everyone set up on JASMIN beforehand and troubleshoot access on Wednesday. The hackathon will commence on Thursday afternoon following the Professional Development Workshop and will conclude with the wrap-up final analysis on Friday evening (tentative).
+
+Expected Outcomes
+-----------------
+
+Our main goal will be to identify and catalog where, when, and why these extreme events have happened in a few different models. Future analysis can then be done with this catalog like identifying the aerosol influence on these extreme events.
+
 
 Data Access
 -----------
@@ -28,14 +33,14 @@ Please ensure you have the necessary tools and access rights installed and set u
 Using Git during the hackathon
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Yet to update the section.
+Under construction.
 
 Setting up a Python environment on JASMIN
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Yet to update the section.
+Under construction.
 
 Loading data using cf-python/xarray
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Yet to update the section.
+Under construction.

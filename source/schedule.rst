@@ -3,7 +3,7 @@
 ECR Workshop Schedule
 =====================
 
-Below is the detailed schedule for the ECR Workshop.
+Below is the detailed schedule for the ECR Workshop:
 
 Tuesday, April 2
 ----------------
