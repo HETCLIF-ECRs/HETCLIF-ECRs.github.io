@@ -21,7 +21,7 @@ Email
 Slack Channel
 -------------
 
-Join the conversation on our ECR Slack channel `HETCLIF Slack Channel <https://hetclif.slack.com/archives/C068H4XAQS3>`_.
+Join the conversation on our `HETCLIF ECRs Slack Channel <https://hetclif.slack.com/archives/C068H4XAQS3>`_.
 
 Ask Questions
 -------------

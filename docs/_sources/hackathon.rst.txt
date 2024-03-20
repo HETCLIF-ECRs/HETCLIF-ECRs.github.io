@@ -33,14 +33,15 @@ Please ensure you have the necessary tools and access rights installed and set u
 Using Git during the hackathon
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Under construction.
+Notebooks, code and outputs like figures will be committed to the `HETCLIF-ECRs Hackathon GitHub repository <https://github.com/HETCLIF-ECRs/Hackathon>`_.
 
-Setting up a Python environment on JASMIN
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+JASMIN
+~~~~~~
 
-Under construction.
+	- `How to get started with JASMIN?  <https://help.jasmin.ac.uk/docs/getting-started/get-started-with-jasmin/>`_
+	- `How to use the JASMIN Notebook Service?  <https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/>`_
 
-Loading data using cf-python/xarray
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Loading data using cf-python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Under construction.
+	- `cf-python Cheat Sheet <https://ncas-cms.github.io/cf-python/cheat_sheet.html>`_
