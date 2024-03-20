@@ -72,4 +72,5 @@ Friday, April 5
   
 - **17:00:** Dinner.
 
-**Note:** This schedule is subject to change. Please keep an eye out for emails from the coordinators for any updates or adjustments.
+.. note::
+  This schedule is subject to change. Please keep an eye out for emails from the coordinators for any updates or adjustments.
