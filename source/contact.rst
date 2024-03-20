@@ -26,4 +26,4 @@ Join the conversation on our ECR Slack channel `HETCLIF Slack Channel <https://h
 Ask Questions
 -------------
 
-Share your ideas, ask questions, or start discussions directly on our `HETCLIF-ECRs GitHub Issues page <https://github.com/HETCLIF-ECRs/hetclif-ecrs.github.io/issues>`_.
+Share your ideas, ask questions, or start discussions directly on our `HETCLIF-ECRs GitHub Discussions page <https://github.com/orgs/HETCLIF-ECRs/discussions>`_.
