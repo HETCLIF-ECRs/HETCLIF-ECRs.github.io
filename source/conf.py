@@ -12,11 +12,17 @@ author = 'Ankit Bhandekar'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath("."))
+
 extensions = []
+
+source_dir = 'source'
 
 templates_path = ['_templates']
 exclude_patterns = []
-
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
@@ -27,6 +33,9 @@ html_static_path = ['_static']
 html_sidebars = {
   "**": []
 }
+
+html_title = "HETCLIF ECRs"
+html_baseurl = 'https://HETCLIF-ECRs.github.io/'
 
 html_theme_options = {
     "logo": {

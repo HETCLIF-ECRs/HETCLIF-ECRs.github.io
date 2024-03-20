@@ -6,7 +6,7 @@
 SPHINXOPTS    ?=
 SPHINXBUILD   ?= sphinx-build
 SOURCEDIR     = source
-BUILDDIR      = build
+BUILDDIR      = docs
 
 # Put it first so that "make" without argument is like "make help".
 help:
@@ -18,3 +18,17 @@ help:
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
 	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+# Custom clean target to clean the build directories
+clean:
+	@echo "Removing generated files..."
+	@rm -rf $(BUILDDIR)/*
+
+html:
+	@$(SPHINXBUILD) -b html "$(SOURCEDIR)" "$(BUILDDIR)/html" $(SPHINXOPTS)
+	@echo "Moving built files to the root of $(BUILDDIR)..."
+	@mv $(BUILDDIR)/html/* $(BUILDDIR)
+	@echo "Removing now-empty html directory and doctrees..."
+	@rm -rf $(BUILDDIR)/html
+	@rm -rf $(BUILDDIR)/doctrees
+	@echo "Build finished. The HTML pages are in $(BUILDDIR)."
