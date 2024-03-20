@@ -38,10 +38,10 @@ Notebooks, code and outputs like figures will be committed to the `HETCLIF-ECRs 
 JASMIN
 ~~~~~~
 
-	- `How to get started with JASMIN?  <https://help.jasmin.ac.uk/docs/getting-started/get-started-with-jasmin/>`_
-	- `How to use the JASMIN Notebook Service?  <https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/>`_
+- `How to get started with JASMIN?  <https://help.jasmin.ac.uk/docs/getting-started/get-started-with-jasmin/>`_
+- `How to use the JASMIN Notebook Service?  <https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/>`_
 
 Loading data using cf-python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-	- `cf-python Cheat Sheet <https://ncas-cms.github.io/cf-python/cheat_sheet.html>`_
+- `cf-python Cheat Sheet <https://ncas-cms.github.io/cf-python/cheat_sheet.html>`_
