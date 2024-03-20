@@ -36,21 +36,6 @@ html_sidebars = {
   "**": []
 }
 
-# html_title = "HETCLIF ECRs"
-# html_baseurl = 'https://HETCLIF-ECRs.github.io/'
-
-# html_theme_options = {
-#     "logo": {
-#         "text": "HETCLIF ECRs",
-#     },
-#     # "external_links": [
-#     #     {"name": "GitHub", "url": "https://github.com/HETCLIF-ECRs/hetclif-ecrs.github.io"}
-#     # ],
-#     "navigation_with_keys": False,
-# }
-
-# html_show_sourcelink = False
-
 html_title = "HETCLIF ECRs"
 html_logo = '_static/logo.png'
 html_baseurl = 'https://HETCLIF-ECRs.github.io/'
@@ -62,6 +47,21 @@ html_theme_options = {
         "alt_text": "HETCLIF ECRs",
     },
     "footer_end": ["combined_footer.html"],
+    "navbar_end": ["theme-switcher", "navbar-icon-links"],
+        "navbar_persistent": [],  # Make sure the search button is not included here
+    "icon_links": [
+        {
+            "name": "GitHub",
+            "url": "https://github.com/orgs/HETCLIF-ECRs/discussions",
+            "icon": "fa-brands fa-github",
+        },
+        {
+            "name": "Slack",
+            "url": "https://hetclif.slack.com/archives/C068H4XAQS3",
+            "icon": "fa-brands fa-slack",
+        },
+        # Add any other icon links here
+    ],
 }
 
 # -- Option for favicons -------------------------------------------------------
@@ -71,3 +71,9 @@ favicons = [
 
 def setup(app):
     app.add_css_file('basic.css')
+    # Make sure to include the Font Awesome CSS for icons if it's not already included
+    app.add_css_file('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css')
+
+
+
+
