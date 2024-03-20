@@ -1,2 +1,3 @@
-# HETCLIF-ECRs.github.io
-A central hub for the HETCLIF Early Career Researchers (ECR) initiative, featuring resources, event details, and collaborative projects.
+# HETCLIF Early Career Researchers (HETCLIF-ECRs)
+
+Welcome to the official repository of the HETCLIF Early Career Researchers!
