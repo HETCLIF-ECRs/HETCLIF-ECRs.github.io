@@ -17,7 +17,9 @@ import sys
 
 sys.path.insert(0, os.path.abspath("."))
 
-extensions = []
+extensions = [
+    "sphinx_favicon",
+]
 
 source_dir = 'source'
 
@@ -34,18 +36,38 @@ html_sidebars = {
   "**": []
 }
 
-html_title = "HETCLIF ECRs"
-html_baseurl = 'https://HETCLIF-ECRs.github.io/'
+# html_title = "HETCLIF ECRs"
+# html_baseurl = 'https://HETCLIF-ECRs.github.io/'
 
+# html_theme_options = {
+#     "logo": {
+#         "text": "HETCLIF ECRs",
+#     },
+#     # "external_links": [
+#     #     {"name": "GitHub", "url": "https://github.com/HETCLIF-ECRs/hetclif-ecrs.github.io"}
+#     # ],
+#     "navigation_with_keys": False,
+# }
+
+# html_show_sourcelink = False
+
+html_title = "HETCLIF ECRs"
+html_logo = '_static/logo.png'
+html_baseurl = 'https://HETCLIF-ECRs.github.io/'
+html_show_sourcelink = False
 html_theme_options = {
     "logo": {
         "text": "HETCLIF ECRs",
+        "image_dark": "_static/logo.png",  # assuming your logo file is named logo.png and located in the _static directory
+        "alt_text": "HETCLIF ECRs",
     },
-    # "external_links": [
-    #     {"name": "GitHub", "url": "https://github.com/HETCLIF-ECRs/hetclif-ecrs.github.io"}
-    # ],
-    "navigation_with_keys": False,
+    "footer_end": ["combined_footer.html"],
 }
 
-html_show_sourcelink = False
+# -- Option for favicons -------------------------------------------------------
+favicons = [
+    "favicon.png"
+]
 
+def setup(app):
+    app.add_css_file('basic.css')
