@@ -23,7 +23,8 @@ Our main goal will be to identify and catalog where, when, and why these extreme
 Data Access
 -----------
 
-The data is stored on JASMIN under ``/gws/nopw/j04/terrafirma/RAMIP``.
+- The data is stored on JASMIN under ``/gws/nopw/j04/terrafirma/RAMIP``.
+- Current JASMIN users will need to apply for access to the ``TerraFIRMA GWS``, if they haven't already.
 
 Preparation
 -----------
