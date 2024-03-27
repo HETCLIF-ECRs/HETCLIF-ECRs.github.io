@@ -36,13 +36,13 @@ Wednesday, April 3
 
 - **13:00:** Scientific paper writing/peer review process by Bjørn with help from others and ECRs.
   
-- **14:00:** Getting set up with JASMIN for hackathon by ECRs.
+- **14:00:** Getting set up with JASMIN for hackathon.
   
 - **15:00:** Aerosol Keynote Session by Trude Storelvmo and ECRs.
   
-- **16:00:** Science discussion with Trude
+- **16:00:** Science discussion with Trude.
 
-- **16:30:** Reference Management/GitHub Discussion by ECRs.
+- **16:30-17:00:** Reference Management/GitHub Discussion by ECRs.
   
 - **17:00:** Dinner.
 
