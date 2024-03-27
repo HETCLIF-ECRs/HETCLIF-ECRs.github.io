@@ -17,7 +17,7 @@ Tuesday, April 2
 Wednesday, April 3
 ------------------
 
-- **9:00-12:00:** ECR Symposium
+- **9:00-12:00:** ECR Symposium:
 
   - **9:00-9:10:** Opening comments/welcome.
   - **9:10-9:25:** Catherine.
@@ -65,14 +65,16 @@ Friday, April 5
 ---------------
 
 - **9:00:** CV Development Workshop by Laura, Dan, CICERO personnel and ECRs.
-  
-- **10:30-11:15:** Scientific "show-and-tell" by ECRs.
 
-- **11:15-11:35:** Productive workflow/Time management by ECRs.
-
-- **11:35-11:55:** Plotting and efficient code in Python by ECRs.
+- **10:30-12:00:** Internal ECR Worshops:
   
-- **13:00:** Hackathon by ECRs.
+  - **10:30-11:15:** Scientific "show-and-tell" by ECRs.
+  - **11:15-11:35:** Productive workflow/Time management by ECRs.
+  - **11:35-11:55:** Plotting and efficient code in Python by ECRs.
+
+- **12:00:** Lunch (11:30 if possible).
+  
+- **13:00:** Hackathon.
   
 - **16:00:** Wrap up analysis. Any closing points from faculty.
   
