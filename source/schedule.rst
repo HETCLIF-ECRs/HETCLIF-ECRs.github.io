@@ -32,7 +32,7 @@ Wednesday, April 3
   - **11:25-11:40:** Maura (virtually).
   - **11:40-11:55:** Kayla.
 
-- **12:00:** Lunch.
+- **12:00:** Lunch (11:30 if possible).
 
 - **13:00:** Scientific paper writing/peer review process by Bjørn with help from others and ECRs.
   
@@ -40,7 +40,9 @@ Wednesday, April 3
   
 - **15:00:** Aerosol Keynote Session by Trude Storelvmo and ECRs.
   
-- **16:00:** Science discussion with Trude and Reference Management/GitHub Discussion by ECRs.
+- **16:00:** Science discussion with Trude
+
+- **16:30:** Reference Management/GitHub Discussion by ECRs.
   
 - **17:00:** Dinner.
 
@@ -51,7 +53,7 @@ Thursday, April 4
 
 - **11:00:** Overflow Symposium Faculty Q&A by HETCLIF Faculty.
   
-- **12:00:** ECR + Faculty Lunch.
+- **12:00:** ECR + Faculty Lunch (11:30 if possible).
   
 - **13:00:** Professional Development Workshop on online presence, networking, community by Astrid Arnslett (CICERO communications personnel).
   
@@ -62,9 +64,13 @@ Thursday, April 4
 Friday, April 5
 ---------------
 
-- **9:00:** CV Development Workshop by Annica, Laura, Dan, and ECRs.
+- **9:00:** CV Development Workshop by Laura, Dan, CICERO personnel and ECRs.
   
-- **11:00:** Personal/scientific "superpowers" and Plotting and efficient code in Python by ECRs.
+- **10:30-11:15:** Scientific "show-and-tell" by ECRs.
+
+- **11:15-11:35:** Productive workflow/Time management by ECRs.
+
+- **11:35-11:55:** Plotting and efficient code in Python by ECRs.
   
 - **13:00:** Hackathon by ECRs.
   
@@ -73,4 +79,4 @@ Friday, April 5
 - **17:00:** Dinner.
 
 .. note::
-  This schedule is subject to change. Please keep an eye out for emails from the coordinators for any updates or adjustments.
+  This schedule is subject to change. Please keep an eye out for emails from the coordinators or Slack conversation for any updates or adjustments.
